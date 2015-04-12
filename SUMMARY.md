@@ -9,6 +9,7 @@
   * [MailingList](./source/part1/5.md)
   * [Disqus 插件](./source/part1/6.md)
   * [Git 常用代码整理](./source/part1/7.md)
+  * [搭建 Python 本地环境](./source/part1/8.md)
 * [Python](./source/part2/introduction.md)
   * [Python 的基本语法](./source/part2/1.md)
   * [第一个程序——猜数字](./source/part2/2.md)
