@@ -15,7 +15,7 @@
   * [第一个程序——猜数字](./source/part2/2.md)
   * [第二个程序——可回放的彩点画板](./source/part2/3.md)
   * [第三个程序——猜数字自动化](./source/part2/4.md)
-  * [第四个程序——](./source/part2/5.md)
+  * [第四个程序——可分享的水彩点彩色板](./source/part2/5.md)
   * [第五个程序——](./source/part2/6.md)
 * [结尾](./source/end.md)
 
