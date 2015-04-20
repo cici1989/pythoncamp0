@@ -17,5 +17,12 @@
   * [第三个程序——猜数字自动化](./source/part2/4.md)
   * [第四个程序——可分享的水彩点彩色板](./source/part2/5.md)
   * [第五个程序——](./source/part2/6.md)
+* [成立互助组](./source/part2/introduction.md)
+  * [快帮满学](./source/part3/1.md)
+  * [物色怪物](./source/part3/2.md)
+  * [组团打怪](./source/part3/3.md)
+  * [](./source/part3/4.md)
+  * [](./source/part3/5.md)
+  * [](./source/part3/6.md)
 * [结尾](./source/end.md)
 
