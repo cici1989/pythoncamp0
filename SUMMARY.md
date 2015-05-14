@@ -24,10 +24,11 @@
   * [GitHub团队协作规则](./source/part3/2.md)
   * [项目讨论](./source/part3/3.md)
   * [大妈来访纪要](./source/part3/4.md)
-  * [](./source/part3/5.md)
+  * [Python 语法3](./source/part3/5.md)
   * [](./source/part3/6.md)
   * [](./source/part3/7.md)
 * [项目执行——The-X-Flies](./source/part4/introduction.md)  
   * [Bottle](./source/part4/1.md)
+  * [Bottle 1](./source/part4/2.md)
 * [结尾](./source/end.md)
 
