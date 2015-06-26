@@ -21,16 +21,16 @@ Week2任务分配 5.9
 cici|Bottle 的用法
 cp4|PhoneGAP/JQMoble
 
-Week3任务分配 5.16 
+Week3任务分配 5.19 
 ----------------------------------------
 姓名 | 任务
 ---- | ----
-石子佳|
-大猫|
-cici|
-cp4|
+石子佳|豆瓣端数据输出
+大猫|SAE 端数据输出
+cici|运用 Cordova/JQMoble/Highchart 等在iOS平台开发
+cp4|运用 Cordova/JQMoble/Highchart 等在安卓平台开发
 
-Week4任务分配 5.23 
+Week4任务分配 5.24 
 ----------------------------------------
 姓名 | 任务
 ---- | ----
